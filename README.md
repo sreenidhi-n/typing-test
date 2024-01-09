@@ -10,3 +10,10 @@ A Typing Test measures an individual's typing speed and accuracy. It is a calcul
 - Rate your typing speed.
 - Display the gross words typed per minute.
 - Display the user’s accuracy.
+- Allows you to test yourself on harder sentences in the advanced mode.
+
+## Some images: 
+![image](https://github.com/sreenidhi-n/typing-test/assets/95966587/09991441-fd23-4df0-9568-c1172cb75a0e)
+![image](https://github.com/sreenidhi-n/typing-test/assets/95966587/6981d0fd-7372-4081-94c1-fdc1bc53f77d)
+![image](https://github.com/sreenidhi-n/typing-test/assets/95966587/5ec661d4-c6d4-4a2a-b215-15ca707082e4)
+
